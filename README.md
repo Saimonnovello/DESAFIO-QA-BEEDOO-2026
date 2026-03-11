@@ -1,7 +1,7 @@
 # DESAFIO-QA-BEEDOO-2026
 
 Qual você acredita ser o objetivo da aplicação?
-Acredito que seja sobre cadastro de cursos e gerenciamento.
+- Acredito que seja sobre cadastrar cursos e gerenciar
 
 Quais são os principais fluxos disponíveis?
 - É possivel cadastrar cursos.
